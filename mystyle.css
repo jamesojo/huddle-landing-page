@@ -1,9 +1,14 @@
-h1{
+h1 {
 	text-transform: capitalize;
-	font-family: 
+	color: white;
 }
 
 body {
    background-image: url("bg-desktop.svg");
    background-color: hsl(257, 40%, 49%);
+}
+
+p {
+
+	color:white;
 }
