@@ -12,3 +12,12 @@ p {
 
 	color:white;
 }
+
+img {
+    float: left;
+}
+div {
+	width:auto;
+	height:auto;
+	padding:1em;
+}
